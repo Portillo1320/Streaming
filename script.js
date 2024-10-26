@@ -1,6 +1,6 @@
 $(document).ready(function(){
 
-    var API_KEY = "AIzaSyAosyvnholaRzSvRtxp2OLdkd2g0tzuzJo"
+    var API_KEY = ""
     
     var video = ''
  
